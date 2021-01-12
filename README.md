@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shinxz.shinxz)
-Here are some ideas to get you started:
+<p align="center">Multi Language Programmer, A Community Owner.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
