@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shinxz.shinxz)
 Here are some ideas to get you started:
 
