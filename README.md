@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shinxz.shinxz)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
