@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h4 align="center">Full-Stack Developer, Community Owner.</h4>
-<h6 align="center">Currently focusing on learning new languages, and working on new projects.</h6><br><h7><b>Recent Projects:</b><br>• <a href="https://startapp.org.il">StartApp.org.il</a><br>• <a href="https://next-il.co.il">Next-il.co.il</a><br></h7>
+<h6 align="center">Currently focusing on learning new languages and working on new projects.</h6><br><h7><b>Recent Projects:</b><br>• <a href="https://startapp.org.il">StartApp.org.il</a><br>• <a href="https://next-il.co.il">Next-il.co.il</a><br></h7>
 <h3>Languages:</h3>
 <p>
 - 💬 <b>Web Development:</b> PHP • HTML • CSS • JS • SQL • Node.js • jQuery • Ajax • Bootstrap<br>
