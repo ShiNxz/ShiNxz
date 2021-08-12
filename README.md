@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋</h1>
-<h4 align="center">Multi Language Developer, Community Owner.</h4>
-<h3>Developer:</h3>
+<h4 align="center">Full-Stack Developer, Community Owner.</h4>
+<h3>Languages:</h3>
 <p>
-- 💬 <b>Web Developer:</b> HTML, CSS, Bootstrap, JS, PHP<br>
-- 💬 <b>Bot Developer:</b> Discordjs, Mysql, Expressjs (API)<br>
-- 💬 <b>Game Server Developer:</b> SourcePawn (CS:GO, SA:MP)<br>
-- 💬 <b>Game Developer:</b> Unity (C#)<br>
+- 💬 <b>Web Development:</b> PHP • HTML • CSS • JS • SQL • Node.js • jQuery • Ajax • Bootstrap<br>
+- 💬 <b>Node.js:</b> Discord.js, Express.js (API)<br>
+- 💬 <b>Game Server:</b> SourcePawn (CS:GO, SA:MP)<br>
+- 💬 <b>Games:</b> Unity (C#)<br>
+</p>
+<h3>Currently Learning:</h3>
+<p>
+- 💬 <b>Web Development:</b> React • Hooks • TypeScript<br>
 </p>
 <h3>Softwares i use:</h3>
 <p>
