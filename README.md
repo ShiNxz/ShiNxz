@@ -3,14 +3,14 @@
 <h6 align="center">Currently focusing on learning new languages and working on new projects.</h6><br><h7><b>Recent Projects:</b><br>• <a href="https://startapp.org.il">StartApp.org.il</a><br>• <a href="https://next-il.co.il">Next-il.co.il</a><br></h7>
 <h3>Languages:</h3>
 <p>
-- 💬 <b>Web Development:</b> PHP • HTML • CSS • JS • SQL • Node.js • jQuery • Ajax • Bootstrap<br>
-- 💬 <b>Node.js:</b> Discord.js, Express.js (API)<br>
+- 💬 <b>Web Development:</b> PHP • HTML • CSS • JS • SQL (MySQL) • Node.js • jQuery • Ajax • Bootstrap • Socket.io<br>
+- 💬 <b>Node.js:</b> Discord.js (v11/v12/v13), Express.js (API)<br>
 - 💬 <b>Game Server:</b> SourcePawn (CS:GO, SA:MP)<br>
 - 💬 <b>Games:</b> Unity (C#)<br>
 </p>
 <h3>Currently Learning:</h3>
 <p>
-- 💬 <b>Web Development:</b> React • Hooks • TypeScript<br>
+- 💬 <b>Web Development:</b> React • Hooks • Native • TypeScript • MongoDB<br>
 </p>
 <h3>Softwares i use:</h3>
 <p>
