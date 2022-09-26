@@ -2,9 +2,12 @@
 <h4 align="center">Full-Stack Developer, Gaming Community Owner.</h4>
 <h6 align="center">Currently focusing on learning new languages and working on new projects.</h6><br>
 <h7><b>Recent Projects:</b><br>
-  • <a href="https://tvbrand.next-il.co.il">Sample TV App</a><br>
-  • <a href="https://startapp.org.il">StartApp.org.il</a><br>
-  • <a href="https://next-il.co.il">Next-il.co.il</a><br>
+  • <a href="https://next-il.co.il">AmirEliz</a> | <a href="https://github.com/ShiNxz/AmirEliz">Repository</a> | Personal Webpage & Portfolio<br>
+  • <a href="https://next-il.co.il">Next-il.co.il</a> | Gaming Community website with many features.<br>
+  • <a href="https://tvbrand.next-il.co.il">Sample TV App</a> | <a href="https://github.com/ShiNxz/tv-brand">Repository</a> | Sample TV Serieses & movies app.<br>
+  • <a href="https://tvbrand.next-il.co.il">Kanban App</a> | <a href="https://github.com/ShiNxz/KanbanApp">Repository</a> | Trello Clone.<br>
+  • <a href="https://tvbrand.next-il.co.il">SHRT.co.il</a> | <a href="https://github.com/ShiNxz/ShortLinks">Repository</a> | Public, free to use URL shortner with many features.<br>
+  • <a href="https://startapp.org.il">StartApp.org.il</a> | <a href="https://github.com/ShiNxz/StartAppNext">Repository</a> | Open your personal pro landing page with many layouts and 100% customization.<br>
 </h7>
 <h3>Languages & Technologies:</h3>
 <p>
