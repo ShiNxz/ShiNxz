@@ -11,12 +11,13 @@
 </h7>
 <h3>Languages & Technologies:</h3>
 <p>
-- 💬 <b>Current Tech Stack:</b> React/Next • MongoDB/MySQL • Scss • Tailwind • Node.js • Express<br>
+- 💬 <b>Current Tech Stack:</b> React/Next • Redux Toolkit • MongoDB/MySQL • Scss • Tailwind • Node.js • Express<br>
+- 💬 <b>Prefered Tech Stack:</b> Next.js • Redux Toolkit • MongoDB • Scss • Tailwind<br>
 - 💬 <b>Front-End:</b> HTML • CSS • Sass/Scss • JavaScript • jQuery • Ajax • Bootstrap • Tailwind • Material-UI • Socket.io • React.js • Next.js<br>
 - 💬 <b>Back-End:</b> PHP • Node.js • Express.js<br>
 - 💬 <b>Sockets:</b> WebSockets • Socket.io<br>
 - 💬 <b>Database:</b> MongoDB • MySQL<br>
-- 💬 <b>Node.js:</b> Discord.js (v12/v13), Express.js (API)<br>
+- 💬 <b>Node.js:</b> Discord.js (v12/v13/v14), Express.js (API)<br>
 - 💬 <b>Game Server:</b> SourcePawn (CS:GO, SA:MP)<br>
 - 💬 <b>Games:</b> Unity (C#)<br>
 </p>
