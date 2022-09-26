@@ -23,7 +23,7 @@
 </p>
 <h3>Currently Learning:</h3>
 <p>
-- 💬 <b>Web Development:</b> React Native • Redux • TypeScript<br>
+- 💬 <b>Web Development:</b> React Native • TypeScript<br>
 </p>
 <h3>Softwares i use:</h3>
 <p>
