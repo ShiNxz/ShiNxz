@@ -4,9 +4,15 @@
 <h7><b>Recent Projects:</b><br>
   • <a href="https://amireliz.co.il">AmirEliz</a> | Personal Webpage & Portfolio<br>
   • <a href="https://next-il.co.il">Next-il</a> | Gaming Community, currently serving my gaming community and dynamically cappable for any game.<br>
-  • <a href="https://shrt.co.il">SHRT.co.il</a> | <a href="https://github.com/ShiNxz/ShortLinks">Repository</a> | Public, free to use URL shortner with many features.<br>
   • <a href="https://start-app.co.il">Start-app.co.il</a> | <a href="https://github.com/ShiNxz/StartAppNext">Repository</a> | Create your business landing page with many layouts and 100% customization for free!<br>
-  • <a href="https://ytfly.cc">Ytfly.cc</a> | <a href="https://github.com/ShiNxz/xxx">Repository</a> | Create your business landing page with many layouts and 100% customization for free!<br>
+  • <a href="https://shrt.co.il">SHRT.co.il</a> | <a href="https://github.com/ShiNxz/ShortLinks">Repository</a> | Public, free to use URL shortner with many features.<br>
+  • <a href="https://ytfly.cc">YtFly</a> | <a href="https://github.com/ShiNxz/YtFly">Repository</a> | Create your business landing page with many layouts and 100% customization for free!<br>
+  • <a href="https://verifly.cc">Verifly</a> | Phone verification made easy! integrate your own phone verification, includes an easy to use SDK for JavaScript!<br>
+  • <a href="https://imgfly.cc">ImgFly</a> | <a href="https://github.com/ShiNxz/ImgFly">Repository</a> | Cloud image upload, fast and easy to use! includes an API server for developers<br>
+</h7><br>
+<h7><b>NPM Packages:</b><br>
+  • <a href="https://www.npmjs.com/package/steam-api-sdk">Steam SDK</a> | <a href="https://github.com/ShiNxz/SteamTools">Repository</a> | Steam API Wrapper<br>
+  • <a href="x">Verifly SDK</a> | <a href="...">Repository</a> | Verifly API Wrapper (currently unavailable)<br>
 </h7>
 <h3>Languages & Technologies:</h3>
 <p>
