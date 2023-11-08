@@ -16,13 +16,12 @@
 </h7>
 <h3>Languages & Technologies:</h3>
 <p>
-- 💬 <b>Front-End Tech Stack:</b> TypeScript • React.js | Next.js • Zustand/Redux • Scss • Tailwind • Material-UI • Socket.io<br>
-- 💬 <b>Back-End Tech Stack:</b> TypeScript • Express • MongoDB/MySQL/Prisma<br><br>
-- 💬 <b>Knowledge & Experience:</b> HTML • CSS • Sass/Scss • JavaScript • jQuery • Ajax • Bootstrap • Tailwind • Material-UI • Mantine • RedixUI • WebSockets • Socket.io • React.js • Next.js • PHP • Node.js • Express.js • Docker • Prisma<br>
+- 💬 <b>Front-End Tech Stack:</b> React.js • Next.js • Zustand • Scss • Tailwind • Socket.io<br>
+- 💬 <b>Back-End Tech Stack:</b> TypeScript • Express • Prisma • Mongoose<br><br>
+- 💬 <b>Knowledge & Experience:</b> HTML • CSS • Scss • JavaScript • jQuery • Ajax • Bootstrap • Tailwind • WebSockets • Socket.io • React.js • Next.js • PHP • TypeScript • Node.js • Express.js • Docker • Prisma • Redux<br>
 - 💬 <b>Database:</b> MongoDB • MySQL • Redis<br>
-- 💬 <b>Node.js:</b> Discord.js (v12/v13/v14), Express.js<br>
 - 💬 <b>Game Server:</b> SourcePawn (CS:GO, SA:MP)<br>
-- 💬 <b>Games:</b> Unity (C#)<br>
+- 💬 <b>Games:</b> Unity (C#) • Unreal Engine<br>
 </p>
 <h3>Currently Learning:</h3>
 <p>
